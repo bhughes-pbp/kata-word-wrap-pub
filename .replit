@@ -1,4 +1,4 @@
 run = ["dotnet", "test", "kata-word-wrap.sln"]
 
 # The default file opened in the editor.
-entrypoint = "App/Hello.cs
+entrypoint = "App/Hello.cs"
